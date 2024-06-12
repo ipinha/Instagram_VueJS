@@ -1,0 +1,29 @@
+{
+  "name": "ecommerce-fe",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "ant-design-vue": "^4.2.1",
+    "axios": "^1.7.2",
+    "core-js": "^3.8.3",
+    "sweetalert2": "^11.11.0",
+    "vue": "^3.2.13",
+    "vue-ant-design": "^0.0.1",
+    "vue-router": "^4.0.3"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~5.0.0",
+    "@vue/cli-plugin-router": "~5.0.0",
+    "@vue/cli-service": "~5.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead",
+    "not ie 11"
+  ]
+}
